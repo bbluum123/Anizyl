@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.main-color {color: #463267;}
+.second-color {color: #813b77;}
+.color3 {color: #cb4a83;}
+.color4 {color: #ff7593;}
+.color5 {color: #ffb099;}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  height: 100%;
+  background-color: #9491d7;
+}
+
+

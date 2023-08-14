@@ -1,0 +1,89 @@
+/* _content/Anizyl/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wylt9t11kg] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wylt9t11kg] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wylt9t11kg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wylt9t11kg], .nav-pills .show > .nav-link[b-wylt9t11kg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wylt9t11kg] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wylt9t11kg] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wylt9t11kg] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wylt9t11kg] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.container[b-wylt9t11kg]{
+  color: white;
+}
+
+.up-bar[b-wylt9t11kg]{
+  display: flex;
+  justify-content: space-between;
+}
+
+.serch-input[b-wylt9t11kg]{
+  margin-top: 20px;
+  width: 200px;
+  margin-right: 35px;
+  height: 35px;
+  border-radius: 20px;
+}
+
+.user-icon-conteiner[b-wylt9t11kg]{
+  padding-top: 20px;
+}
+
+.up-bar-right[b-wylt9t11kg]{
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer[b-wylt9t11kg] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.nav-bar-custom[b-wylt9t11kg] {
+  padding: 0 20px;
+  background-color: #463267;
+  height: 80px;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0px 14px 15px -3px rgb(194 225 249);
+}
+
+.footer-custom[b-wylt9t11kg]{
+  height: 30px;
+  background-color: #463267;
+  box-shadow: 0px -14px 15px -3px rgb(194 225 249);
+  border-radius: 20px 20px 0 0;
+}
